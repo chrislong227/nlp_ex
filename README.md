@@ -10,3 +10,5 @@ a simple cosine similarity using TF-IDF matrix.
 Source each file in the `R` directly individually.
 Eventually, I'll turn this into a proper package.
 
+## About Stopword list
+Credit given to http://xpo6.com/list-of-english-stop-words/
